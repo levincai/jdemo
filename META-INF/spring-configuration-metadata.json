@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "application",
+    "sourceType": "com.levin.config.ApplicationProperties",
+    "type": "com.levin.config.ApplicationProperties"
+  }],
+  "hints": [],
+  "properties": []
+}
